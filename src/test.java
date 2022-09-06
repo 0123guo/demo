@@ -6,5 +6,6 @@ public class test {
         System.out.println("hotfix");
         System.out.println("test merge conflict hot-fix");
         System.out.println("master up");
+        System.out.println("push test");
     }
 }
